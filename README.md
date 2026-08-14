@@ -1,4 +1,8 @@
-# subedit
+<p align="center">
+  <img src="assets/icons/subedit-logo.svg" alt="subedit logo" width="512" >
+</p>
+
+<h1 align="center">subedit</h1>
 
 A TUI & CLI tool made for curating Whisper generated subtitles. 
 
