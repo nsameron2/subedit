@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icons/subedit-logo.svg" alt="subedit logo" width="512" >
+  <img src="assets/icons/subedit-logo-icon.svg" alt="subedit logo" width="512" >
 </p>
 
 <h1 align="center">subedit</h1>
