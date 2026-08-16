@@ -6,6 +6,10 @@
 
 A TUI & CLI tool made for curating Whisper generated subtitles. Batch delete specific hallucinated phrases in all of your subtitle files with the press of a button.
 
+<p align="center">
+  <img src="assets/images/screenshot.png" alt="subedit running in a terminal" width="1024" >
+</p>
+
 Built in Go with the Charm ecosystem.
 
 ## Overview
