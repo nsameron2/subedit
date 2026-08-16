@@ -4,7 +4,9 @@
 
 <h1 align="center">subedit</h1>
 
-A TUI & CLI tool made for curating Whisper generated subtitles. 
+A TUI & CLI tool made for curating Whisper generated subtitles. Batch delete specific hallucinated phrases in all of your subtitle files with the press of a button.
+
+Built in Go with the Charm ecosystem.
 
 ## Overview
 
